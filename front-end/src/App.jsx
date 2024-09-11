@@ -1,4 +1,4 @@
-import { useCallback, useReducer, useState } from 'react'
+import { useCallback, useReducer } from 'react'
 import './App.css'
 import Input from './components/lib/Input'
 import { VALIDATOR_MINLENGTH, VALIDATOR_REQUIRE } from './utils/validate'
